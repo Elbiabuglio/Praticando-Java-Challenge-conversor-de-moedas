@@ -1,5 +1,6 @@
 
-<h1>Conversor de Moedas em tempo real</h1> 
+<h1>Praticando Java Challenge Conversor de Moedas
+</h1> 
 
 
 ## Descrição do projeto 
@@ -27,7 +28,7 @@
 ## Funcionalidades
 
 :heavy_check_mark: Converter moedas 
-:heavy_check_mark: HTTP Reque
+:heavy_check_mark: [HTTP Reque](https://v6.exchangerate-api.com/v6/e23ee126610edd1c86b31c31/latest/USD)
 
 ## Linguagens, dependencias e pacotes utilizados :books:
 

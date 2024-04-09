@@ -1,6 +1,8 @@
 
 <h1>Praticando Java Challenge Conversor de Moedas </h1> 
 
+![Badge-Conversor](https://github.com/Elbiabuglio/Praticando-Java-Challenge-conversor-de-moedas/assets/101484328/7eec36ff-4d88-4ee6-9c12-7d5617ba6af4)
+
 
 ## Descrição do projeto 
 

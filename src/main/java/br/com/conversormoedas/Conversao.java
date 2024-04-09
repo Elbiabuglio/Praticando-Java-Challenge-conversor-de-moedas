@@ -5,8 +5,8 @@ import java.io.IOException;
 import java.text.DecimalFormat;
 
 public class Conversao {
-    
-    // Recebe a moeda Original, a moeda conversora e a quantia original
+
+
     public static String converter(String quantiaOriginal, Object moedaOriginal, Object moedaConversora)
             throws IOException {
 
